@@ -4,8 +4,8 @@ A fully functional front-end clone of **Amazon.in**, built from scratch using **
 
 ## 🔗 Live Link & Source Code
 
-- 🔴 **Live Site**: [View on GitHub Pages](https://mohameds18.github.io/amazon.com/)  
-- 💻 **Source Code**: [GitHub Repository](https://github.com/MohamedS18/amazon.com)
+- 🔴 **Live Site**: [View on GitHub Pages](https://mohameds18.github.io/amazon.in/)  
+- 💻 **Source Code**: [GitHub Repository](https://github.com/MohamedS18/amazon.in)
 
 ## 🧰 Tech Stack
 
