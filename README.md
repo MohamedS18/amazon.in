@@ -2,10 +2,8 @@
 
 A fully functional front-end clone of **Amazon.in**, built from scratch using **HTML**, **CSS**, and **JavaScript**. This project simulates core e-commerce functionality such as product listing, cart management, price calculation, and order tracking — all running completely on the **local system** with no backend.
 
-## 🔗 Live Link & Source Code
-
-- 🔴 **Live Site**: [View on GitHub Pages](https://mohameds18.github.io/amazon.in/)  
-- 💻 **Source Code**: [GitHub Repository](https://github.com/MohamedS18/amazon.in)
+## 🔗 Live Link : 
+[View on GitHub Pages](https://mohameds18.github.io/amazon.in/)  
 
 ## 🧰 Tech Stack
 
